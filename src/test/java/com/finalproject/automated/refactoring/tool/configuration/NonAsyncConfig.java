@@ -11,5 +11,5 @@ import org.springframework.context.annotation.Profile;
 
 @Configuration
 @Profile("non-async")
-public class NonAsyncConfig {
+public class    NonAsyncConfig {
 }
